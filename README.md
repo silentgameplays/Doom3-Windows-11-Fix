@@ -1,4 +1,4 @@
-# Doom 3 Resolution Fix Windows 10
+# Doom 3 Resolution Fix Windows 11
 
 For those who want to play Doom 3 Original not the BFG edition
 # Easy
