@@ -28,3 +28,8 @@ For those who want to play Doom 3 Original not the BFG edition
 * "r_customWidth 1920"
 
 4. Start the game
+
+# Alternative easy fix for 1080p resolutions
+1. Download the fix
+2. Put autoexec.cfg file into folder C:\Program Files (x86)\Steam\steamapps\common\Doom 3\base 
+3. Enjoy the game for higher resolution edit the autoexec.cfg file
